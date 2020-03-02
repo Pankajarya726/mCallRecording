@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.axet:android-audio-library:1.0.167@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6b8b1605f9fd9badd5b2a9de5094f2c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6b8b1605f9fd9badd5b2a9de5094f2c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.axet/android-audio-library/1.0.167/575c7b6b951038fce177570318cfb9ded76b80b4/android-audio-library-1.0.167-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
